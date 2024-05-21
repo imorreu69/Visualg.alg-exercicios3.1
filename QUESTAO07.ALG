@@ -1,7 +1,7 @@
 Algoritmo "QUESTAO07"
 // Disciplina :Lógica de Programação
 // Fazer um algoritmo que pergunte 3 números
-//e apresente a média aritmética entre estes 3 númer
+//e apresente a média aritmética entre estes 3 número
 Var
 // Seção de Declarações das variáveis 
 nume : inteiro
